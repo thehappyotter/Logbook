@@ -1,1 +1,1 @@
-Logbook
+A simple logbook for pilots to log and analyse their flying hours.
